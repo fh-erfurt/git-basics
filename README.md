@@ -1,61 +1,53 @@
 # git-basics
 
-## Level 2: Staging and Remotes
+## Level 3: Cloning and Branching
 
-### Differences
+### Cloning
 
-Q1. Show differneces for all not staged files
-
-`$ ...`  
-
-Q2. Show differneces for all staged files
+Q1. Clone remote repo into current dir
 
 `$ ...`  
 
-Q3. Rest an individual file to the last commit
-
-`$ ...`  
-
-Q4. Reset an individual file to the last change
+Q2. Clone remote repo into a subfolder
 
 `$ ...`  
  
-### Learn how to reset changes before push
+### Branching 
 
-Q5. Undo the last commit and put changes into staging area
+Q5. Create a branch
 
 `$ ...`
 
-Q6. Undo the last commit and delete all changes
+Q6. Checkout a branch
 
 `$ ...`  
 
-Q7. Undo the last two commits
+Q7. Create a branch and switch a branch in same command
 
 `$ ...`  
 
-### Modifing a commit
-
-Q8. Add a file to the last commit with a new commit message
+Q8. Switch to master branch
 
 `$ ...`  
-`$ ...`
 
-### Sharing
-
-Q9. View remote repositories
+Q9. Merge a feature branch
 
 `$ ...` 
 
-Q10. Create a repo and GitHub and add it as remote
+Q10. Delete a branch
 
 `$ ...`
 
-Q11. Remove the remote repo and add it again ;-)
+Q11. Push a local branch
 
 `$ ...` 
 
-Q12. Push your branch to the remote repository
+Q12. Push your branch to the remote repository and delete the remote branch
 
+`$ ...` 
+
+Q13. Show your current branch and all branches
+
+`$ ...` 
 `$ ...` 
 
