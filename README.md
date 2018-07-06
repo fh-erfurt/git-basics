@@ -23,7 +23,7 @@ Q4. Create a local directory named "store" and change into it. Then initialize a
 `$ ...`  
 `$ ...`  
 
-Q5. Create a bunch of *.txt files with the touch command into the directory and figure out how to add them with the following strategies to the index. You can use the status command to check if it worked.
+Q5. Create a bunch of `*.txt` files with the touch command into the directory and figure out how to add them with the following strategies to the index. You can use the status command to check if it worked.
 
 `$ touch a.txt b.txt c.txt d.txt a.doc b.doc c.doc` etc.
 
