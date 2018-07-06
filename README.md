@@ -31,6 +31,7 @@ Q6. Undo the last commit and delete all changes
 `$ ...`  
 
 Q7. Undo the last two commits
+
 `$ ...`  
 
 ### Modifing a commit
