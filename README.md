@@ -55,8 +55,7 @@ Q11. Remove the remote repo and add it again ;-)
 
 `$ ...` 
 
-Q12. Push to remote repository
+Q12. Push your branch to the remote repository
 
 `$ ...` 
 
-`$ ...` 
