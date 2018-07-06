@@ -20,7 +20,7 @@ Q4. Reset an individual file to the last change
 
 `$ ...`  
  
-### Lern how to reset changes before push
+### Learn how to reset changes before push
 
 Q5. Undo the last commit and put changes into staging area
 
@@ -40,4 +40,4 @@ Q8. Add a file to the last commit with a new commit message
 `$ ...`  
 `$ ...`
 
-### Sahring
+### Sharing
