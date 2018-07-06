@@ -42,3 +42,21 @@ Q8. Add a file to the last commit with a new commit message
 `$ ...`
 
 ### Sharing
+
+Q9. View remote repositories
+
+`$ ...` 
+
+Q10. Create a repo and GitHub and add it as remote
+
+`$ ...`
+
+Q11. Remove the remote repo and add it again ;-)
+
+`$ ...` 
+
+Q12. Push to remote repository
+
+`$ ...` 
+
+`$ ...` 
