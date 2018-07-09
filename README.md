@@ -40,8 +40,8 @@ Q10. Delete a branch
 
 Q11. Push a local branch to a upstream repo
 
-`$ git push -u <remotename> <branchname>`
-`$ git push`
+`$ git push -u <remotename> <branchname>`  
+`$ git push`  
 `$ git push <remotename>` 
 
 Q12. Delete a remote branch
@@ -50,5 +50,5 @@ Q12. Delete a remote branch
 
 Q13. Show your current branch and all remote branches with their relations
 
-`$ git branch` 
+`$ git branch`  
 `$ git branch -av`
